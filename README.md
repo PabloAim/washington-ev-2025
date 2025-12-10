@@ -47,14 +47,14 @@ Esse combo de redução de taxas do governo explica por que 2023 foi o ano em qu
 
 
 ### Dataset (64 MB)
-Arquivo muito grande para o GitHub. Baixe aqui (mesmo usado na análise):  
+Link direto: 
 → [Electric_Vehicle_Population_Data.csv](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69)
 
 
 ## Fontes
 - Wikipedia - [Seattle](https://en.wikipedia.org/wiki/Seattle)
-- U.S. Census Bureau → [População e renda de Seattle](https://www.census.gov/quickfacts/fact/table/seattlecitywashington/EDU685223)
-- Washington State Department of Ecology (2024) → [Relatório oficial](https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington)
+- U.S. Census Bureau → [Seattle city, Washington](https://www.census.gov/quickfacts/fact/table/seattlecitywashington/EDU685223)
+- Washington State Department of Ecology (2024) → [A record year for electric and plug-in hybrid vehicles in Washington](https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington)
 - Dataset oficial → [Washington electric and plug-in vehicle sales increased in 2023](https://www.nbcrightnow.com/news/washington-electric-and-plug-in-vehicle-sales-increased-in-2023/article_d6017f50-d915-543c-9944-36b7873c3480.html)
 
 
@@ -68,9 +68,7 @@ Arquivo muito grande para o GitHub. Baixe aqui (mesmo usado na análise):
 
 ## Como rodar
 ```bash
-git clone https://github.com/PabloAim/washington-ev-2025.git
-cd washington-ev-2025
+git clone https://github.com/PabloAim/washington-electric-vehicles.git
+cd washington-electric-vehicles
 pip install pandas matplotlib jupyter
 jupyter notebook
-
-Feito em dezembro/2025 – Pablo Aim
