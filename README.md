@@ -62,7 +62,7 @@ Arquivo muito grande para o GitHub. Baixe aqui (mesmo usado na análise):
 ![Top 10 Marcas](imagens/top10_marcas.png)
 ![Top 10 Cidades](imagens/top10_cidades.png)
 ![Distribuição por Ano](imagens/distribuicao_ano.png)
-![Evolução BEV × PHEV](imagens/evolucao_bev_phev.png)
+![Evolução Elétrico × Híbrido](imagens/evolucao_eletrico_hibrido.png)
 ![Top 10 Modelos](imagens/top10_modelos.png)
 ![Tesla Model Y por Ano](imagens/model_y_por_ano.png)
 
